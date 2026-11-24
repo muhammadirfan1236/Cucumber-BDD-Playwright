@@ -1,0 +1,7 @@
+[   38612ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://conduit.bondaracademy.com/login:1
+[  147538ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ https://localhost:4173/placeholder-avatar.svg:1
+[  148116ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ https://localhost:4173/placeholder-avatar.svg:1
+[  212658ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ https://localhost:4173/placeholder-avatar.svg:1
+[  256404ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ https://localhost:4173/placeholder-avatar.svg:1
+[  272949ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ https://localhost:4173/placeholder-avatar.svg:1
+[  300819ms] [ERROR] Failed to load resource: net::ERR_CONNECTION_REFUSED @ https://localhost:4173/placeholder-avatar.svg:1

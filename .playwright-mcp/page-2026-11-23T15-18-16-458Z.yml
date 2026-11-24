@@ -1,0 +1,79 @@
+- generic [ref=e2]:
+  - navigation [ref=e4]:
+    - generic:
+      - link "conduit" [ref=e5] [cursor=pointer]:
+        - /url: /
+      - list [ref=e34]:
+        - listitem [ref=e35]:
+          - link "Home" [ref=e36] [cursor=pointer]:
+            - /url: /
+        - listitem [ref=e37]:
+          - link " New Article" [ref=e38] [cursor=pointer]:
+            - /url: /editor
+            - generic [ref=e39]: 
+            - text: New Article
+        - listitem [ref=e40]:
+          - link " Settings" [ref=e41] [cursor=pointer]:
+            - /url: /settings
+            - generic [ref=e42]: 
+            - text: Settings
+        - listitem [ref=e43]:
+          - link "pwtest" [ref=e44] [cursor=pointer]:
+            - /url: /profile/pwtest
+  - generic [ref=e325]:
+    - generic [ref=e327]:
+      - heading "Playwright Automation Article 1763913394" [level=1] [ref=e328]
+      - generic [ref=e330]:
+        - link [ref=e331] [cursor=pointer]:
+          - /url: /profile/pwtest
+        - generic [ref=e333]:
+          - link "pwtest" [ref=e334] [cursor=pointer]:
+            - /url: /profile/pwtest
+          - generic [ref=e335]: November 23, 2026
+        - generic [ref=e336]:
+          - link " Edit Article" [ref=e337] [cursor=pointer]:
+            - /url: /editor/Playwright-Automation-Article-1763913394-6218
+            - generic [ref=e338]: 
+            - text: Edit Article
+          - button " Delete Article" [ref=e339] [cursor=pointer]:
+            - generic [ref=e340]: 
+            - text: Delete Article
+    - generic [ref=e341]:
+      - generic [ref=e343]:
+        - paragraph [ref=e345]: This article validates the complete Conduit create, publish, list, open, and delete workflow.
+        - list [ref=e346]:
+          - listitem [ref=e347]: playwright
+      - separator [ref=e348]
+      - generic [ref=e351]:
+        - link [ref=e352] [cursor=pointer]:
+          - /url: /profile/pwtest
+        - generic [ref=e354]:
+          - link "pwtest" [ref=e355] [cursor=pointer]:
+            - /url: /profile/pwtest
+          - generic [ref=e356]: November 23, 2026
+        - generic [ref=e357]:
+          - link " Edit Article" [ref=e358] [cursor=pointer]:
+            - /url: /editor/Playwright-Automation-Article-1763913394-6218
+            - generic [ref=e359]: 
+            - text: Edit Article
+          - button " Delete Article" [ref=e360] [cursor=pointer]:
+            - generic [ref=e361]: 
+            - text: Delete Article
+      - generic [ref=e364]:
+        - generic:
+          - list
+        - group [ref=e366]:
+          - textbox "Write a comment..." [ref=e368]
+          - button "Post Comment" [ref=e371] [cursor=pointer]
+  - contentinfo [ref=e13]:
+    - generic [ref=e14]:
+      - link "conduit" [ref=e15] [cursor=pointer]:
+        - /url: /
+      - generic [ref=e16]:
+        - text: © 2026. An interactive learning project from
+        - link "RealWorld OSS Project" [ref=e17] [cursor=pointer]:
+          - /url: https://github.com/gothinkster/realworld
+        - text: . Code licensed under MIT. Hosted by
+        - link "Bondar Academy" [ref=e18] [cursor=pointer]:
+          - /url: https://bondaracademy.com
+        - text: .

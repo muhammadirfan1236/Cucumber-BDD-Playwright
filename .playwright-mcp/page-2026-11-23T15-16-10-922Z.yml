@@ -1,0 +1,42 @@
+- generic [ref=e2]:
+  - navigation [ref=e4]:
+    - generic:
+      - link "conduit" [ref=e5] [cursor=pointer]:
+        - /url: /
+      - list [ref=e34]:
+        - listitem [ref=e35]:
+          - link "Home" [ref=e36] [cursor=pointer]:
+            - /url: /
+        - listitem [ref=e37]:
+          - link " New Article" [ref=e38] [cursor=pointer]:
+            - /url: /editor
+            - generic [ref=e39]: 
+            - text: New Article
+        - listitem [ref=e40]:
+          - link " Settings" [ref=e41] [cursor=pointer]:
+            - /url: /settings
+            - generic [ref=e42]: 
+            - text: Settings
+        - listitem [ref=e43]:
+          - link "pwtest" [ref=e44] [cursor=pointer]:
+            - /url: /profile/pwtest
+  - generic [ref=e50]:
+    - list [ref=e52]:
+      - listitem [ref=e53]:
+        - generic [ref=e54] [cursor=pointer]: Your Feed
+      - listitem [ref=e55]:
+        - generic [ref=e56]: Global Feed
+      - text: 
+    - generic [ref=e57]: Loading articles...
+  - contentinfo [ref=e13]:
+    - generic [ref=e14]:
+      - link "conduit" [ref=e15] [cursor=pointer]:
+        - /url: /
+      - generic [ref=e16]:
+        - text: © 2026. An interactive learning project from
+        - link "RealWorld OSS Project" [ref=e17] [cursor=pointer]:
+          - /url: https://github.com/gothinkster/realworld
+        - text: . Code licensed under MIT. Hosted by
+        - link "Bondar Academy" [ref=e18] [cursor=pointer]:
+          - /url: https://bondaracademy.com
+        - text: .

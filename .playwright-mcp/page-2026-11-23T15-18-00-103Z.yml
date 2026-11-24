@@ -1,0 +1,367 @@
+- generic [ref=e2]:
+  - navigation [ref=e4]:
+    - generic:
+      - link "conduit" [ref=e5] [cursor=pointer]:
+        - /url: /
+      - list [ref=e34]:
+        - listitem [ref=e35]:
+          - link "Home" [active] [ref=e36] [cursor=pointer]:
+            - /url: /
+        - listitem [ref=e37]:
+          - link " New Article" [ref=e38] [cursor=pointer]:
+            - /url: /editor
+            - generic [ref=e39]: 
+            - text: New Article
+        - listitem [ref=e40]:
+          - link " Settings" [ref=e41] [cursor=pointer]:
+            - /url: /settings
+            - generic [ref=e42]: 
+            - text: Settings
+        - listitem [ref=e43]:
+          - link "pwtest" [ref=e44] [cursor=pointer]:
+            - /url: /profile/pwtest
+  - generic [ref=e78]:
+    - generic [ref=e79]:
+      - list [ref=e81]:
+        - listitem [ref=e82]:
+          - generic [ref=e83] [cursor=pointer]: Your Feed
+        - listitem [ref=e84]:
+          - generic [ref=e85]: Global Feed
+        - text: 
+      - generic [ref=e86]:
+        - generic [ref=e88]:
+          - generic [ref=e90]:
+            - link [ref=e91] [cursor=pointer]:
+              - /url: /profile/pwtest
+            - generic [ref=e93]:
+              - link "pwtest" [ref=e94] [cursor=pointer]:
+                - /url: /profile/pwtest
+              - generic [ref=e95]: November 23, 2026
+            - button " 0" [ref=e97] [cursor=pointer]:
+              - generic [ref=e98]: 
+              - text: "0"
+          - link [ref=e99] [cursor=pointer]:
+            - /url: /article/Playwright-Automation-Article-1763913394-6218
+            - heading "Playwright Automation Article 1763913394" [level=1] [ref=e100]
+            - paragraph [ref=e101]: A random article created by Playwright MCP automation.
+            - text: Read more...
+            - list [ref=e102]:
+              - listitem [ref=e103]: playwright
+        - generic [ref=e105]:
+          - generic [ref=e107]:
+            - link [ref=e108] [cursor=pointer]:
+              - /url: /profile/pwtest
+            - generic [ref=e110]:
+              - link "pwtest" [ref=e111] [cursor=pointer]:
+                - /url: /profile/pwtest
+              - generic [ref=e112]: November 22, 2026
+            - button " 0" [ref=e114] [cursor=pointer]:
+              - generic [ref=e115]: 
+              - text: "0"
+          - link [ref=e116] [cursor=pointer]:
+            - /url: /article/articleTitle-6218
+            - heading "articleTitle" [level=1] [ref=e117]
+            - paragraph [ref=e118]: Test description
+            - text: Read more...
+            - list
+        - generic [ref=e120]:
+          - generic [ref=e122]:
+            - link [ref=e123] [cursor=pointer]:
+              - /url: /profile/pwtest
+            - generic [ref=e125]:
+              - link "pwtest" [ref=e126] [cursor=pointer]:
+                - /url: /profile/pwtest
+              - generic [ref=e127]: November 12, 2026
+            - button " 0" [ref=e129] [cursor=pointer]:
+              - generic [ref=e130]: 
+              - text: "0"
+          - link [ref=e131] [cursor=pointer]:
+            - /url: /article/Playwright-article-1794452070160-6218
+            - heading "Playwright article 1794452070160" [level=1] [ref=e132]
+            - paragraph [ref=e133]: An article created by the Playwright end-to-end test.
+            - text: Read more...
+            - list
+        - generic [ref=e135]:
+          - generic [ref=e137]:
+            - link [ref=e138] [cursor=pointer]:
+              - /url: /profile/pwtest
+            - generic [ref=e140]:
+              - link "pwtest" [ref=e141] [cursor=pointer]:
+                - /url: /profile/pwtest
+              - generic [ref=e142]: November 12, 2026
+            - button " 0" [ref=e144] [cursor=pointer]:
+              - generic [ref=e145]: 
+              - text: "0"
+          - link [ref=e146] [cursor=pointer]:
+            - /url: /article/Playwright-article-1794452051582-6218
+            - heading "Playwright article 1794452051582" [level=1] [ref=e147]
+            - paragraph [ref=e148]: An article created by the Playwright end-to-end test.
+            - text: Read more...
+            - list
+        - generic [ref=e150]:
+          - generic [ref=e152]:
+            - link [ref=e153] [cursor=pointer]:
+              - /url: /profile/pwtest
+            - generic [ref=e155]:
+              - link "pwtest" [ref=e156] [cursor=pointer]:
+                - /url: /profile/pwtest
+              - generic [ref=e157]: November 12, 2026
+            - button " 0" [ref=e159] [cursor=pointer]:
+              - generic [ref=e160]: 
+              - text: "0"
+          - link [ref=e161] [cursor=pointer]:
+            - /url: /article/Playwright-article-1794452030188-6218
+            - heading "Playwright article 1794452030188" [level=1] [ref=e162]
+            - paragraph [ref=e163]: An article created by the Playwright end-to-end test.
+            - text: Read more...
+            - list
+        - generic [ref=e165]:
+          - generic [ref=e167]:
+            - link [ref=e168] [cursor=pointer]:
+              - /url: /profile/pwtest
+            - generic [ref=e170]:
+              - link "pwtest" [ref=e171] [cursor=pointer]:
+                - /url: /profile/pwtest
+              - generic [ref=e172]: November 12, 2026
+            - button " 0" [ref=e174] [cursor=pointer]:
+              - generic [ref=e175]: 
+              - text: "0"
+          - link [ref=e176] [cursor=pointer]:
+            - /url: /article/Playwright-article-1794452023137-6218
+            - heading "Playwright article 1794452023137" [level=1] [ref=e177]
+            - paragraph [ref=e178]: An article created by the Playwright end-to-end test.
+            - text: Read more...
+            - list
+        - generic [ref=e180]:
+          - generic [ref=e182]:
+            - link [ref=e183] [cursor=pointer]:
+              - /url: /profile/pwtest
+            - generic [ref=e185]:
+              - link "pwtest" [ref=e186] [cursor=pointer]:
+                - /url: /profile/pwtest
+              - generic [ref=e187]: November 12, 2026
+            - button " 0" [ref=e189] [cursor=pointer]:
+              - generic [ref=e190]: 
+              - text: "0"
+          - link [ref=e191] [cursor=pointer]:
+            - /url: /article/Playwright-article-1794451994569-6218
+            - heading "Playwright article 1794451994569" [level=1] [ref=e192]
+            - paragraph [ref=e193]: An article created by the Playwright end-to-end test.
+            - text: Read more...
+            - list
+        - generic [ref=e195]:
+          - generic [ref=e197]:
+            - link [ref=e198] [cursor=pointer]:
+              - /url: /profile/pwtest
+            - generic [ref=e200]:
+              - link "pwtest" [ref=e201] [cursor=pointer]:
+                - /url: /profile/pwtest
+              - generic [ref=e202]: November 12, 2026
+            - button " 0" [ref=e204] [cursor=pointer]:
+              - generic [ref=e205]: 
+              - text: "0"
+          - link [ref=e206] [cursor=pointer]:
+            - /url: /article/Playwright-article-1794451984212-6218
+            - heading "Playwright article 1794451984212" [level=1] [ref=e207]
+            - paragraph [ref=e208]: An article created by the Playwright end-to-end test.
+            - text: Read more...
+            - list
+        - generic [ref=e210]:
+          - generic [ref=e212]:
+            - link [ref=e213] [cursor=pointer]:
+              - /url: /profile/pwtest
+            - generic [ref=e215]:
+              - link "pwtest" [ref=e216] [cursor=pointer]:
+                - /url: /profile/pwtest
+              - generic [ref=e217]: November 8, 2026
+            - button " 0" [ref=e219] [cursor=pointer]:
+              - generic [ref=e220]: 
+              - text: "0"
+          - link [ref=e221] [cursor=pointer]:
+            - /url: /article/Ultra-ustulo-pecto-debilito-ocer.-6218
+            - heading "Ultra ustulo pecto debilito ocer." [level=1] [ref=e222]
+            - paragraph [ref=e223]: Sit aeternus bos.
+            - text: Read more...
+            - list
+        - generic [ref=e225]:
+          - generic [ref=e227]:
+            - link [ref=e228] [cursor=pointer]:
+              - /url: /profile/pwtest
+            - generic [ref=e230]:
+              - link "pwtest" [ref=e231] [cursor=pointer]:
+                - /url: /profile/pwtest
+              - generic [ref=e232]: November 7, 2026
+            - button " 0" [ref=e234] [cursor=pointer]:
+              - generic [ref=e235]: 
+              - text: "0"
+          - link [ref=e236] [cursor=pointer]:
+            - /url: /article/Test-NEW-Article-789-6218
+            - heading "Test NEW Article 789" [level=1] [ref=e237]
+            - paragraph [ref=e238]: Test description
+            - text: Read more...
+            - list
+        - navigation [ref=e239]:
+          - list [ref=e240]:
+            - listitem:
+              - button "1" [ref=e241]
+            - listitem:
+              - button "2" [ref=e242] [cursor=pointer]
+            - listitem:
+              - button "3" [ref=e243] [cursor=pointer]
+            - listitem:
+              - button "4" [ref=e244] [cursor=pointer]
+            - listitem:
+              - button "5" [ref=e245] [cursor=pointer]
+            - listitem:
+              - button "6" [ref=e246] [cursor=pointer]
+            - listitem:
+              - button "7" [ref=e247] [cursor=pointer]
+            - listitem:
+              - button "8" [ref=e248] [cursor=pointer]
+            - listitem:
+              - button "9" [ref=e249] [cursor=pointer]
+            - listitem:
+              - button "10" [ref=e250] [cursor=pointer]
+            - listitem:
+              - button "11" [ref=e251] [cursor=pointer]
+            - listitem:
+              - button "12" [ref=e252] [cursor=pointer]
+            - listitem:
+              - button "13" [ref=e253] [cursor=pointer]
+            - listitem:
+              - button "14" [ref=e254] [cursor=pointer]
+            - listitem:
+              - button "15" [ref=e255] [cursor=pointer]
+            - listitem:
+              - button "16" [ref=e256] [cursor=pointer]
+            - listitem:
+              - button "17" [ref=e257] [cursor=pointer]
+            - listitem:
+              - button "18" [ref=e258] [cursor=pointer]
+            - listitem:
+              - button "19" [ref=e259] [cursor=pointer]
+            - listitem:
+              - button "20" [ref=e260] [cursor=pointer]
+            - listitem:
+              - button "21" [ref=e261] [cursor=pointer]
+            - listitem:
+              - button "22" [ref=e262] [cursor=pointer]
+            - listitem:
+              - button "23" [ref=e263] [cursor=pointer]
+            - listitem:
+              - button "24" [ref=e264] [cursor=pointer]
+            - listitem:
+              - button "25" [ref=e265] [cursor=pointer]
+            - listitem:
+              - button "26" [ref=e266] [cursor=pointer]
+            - listitem:
+              - button "27" [ref=e267] [cursor=pointer]
+            - listitem:
+              - button "28" [ref=e268] [cursor=pointer]
+            - listitem:
+              - button "29" [ref=e269] [cursor=pointer]
+            - listitem:
+              - button "30" [ref=e270] [cursor=pointer]
+            - listitem:
+              - button "31" [ref=e271] [cursor=pointer]
+            - listitem:
+              - button "32" [ref=e272] [cursor=pointer]
+            - listitem:
+              - button "33" [ref=e273] [cursor=pointer]
+            - listitem:
+              - button "34" [ref=e274] [cursor=pointer]
+            - listitem:
+              - button "35" [ref=e275] [cursor=pointer]
+            - listitem:
+              - button "36" [ref=e276] [cursor=pointer]
+            - listitem:
+              - button "37" [ref=e277] [cursor=pointer]
+            - listitem:
+              - button "38" [ref=e278] [cursor=pointer]
+            - listitem:
+              - button "39" [ref=e279] [cursor=pointer]
+            - listitem:
+              - button "40" [ref=e280] [cursor=pointer]
+            - listitem:
+              - button "41" [ref=e281] [cursor=pointer]
+            - listitem:
+              - button "42" [ref=e282] [cursor=pointer]
+            - listitem:
+              - button "43" [ref=e283] [cursor=pointer]
+            - listitem:
+              - button "44" [ref=e284] [cursor=pointer]
+            - listitem:
+              - button "45" [ref=e285] [cursor=pointer]
+            - listitem:
+              - button "46" [ref=e286] [cursor=pointer]
+            - listitem:
+              - button "47" [ref=e287] [cursor=pointer]
+            - listitem:
+              - button "48" [ref=e288] [cursor=pointer]
+            - listitem:
+              - button "49" [ref=e289] [cursor=pointer]
+            - listitem:
+              - button "50" [ref=e290] [cursor=pointer]
+            - listitem:
+              - button "51" [ref=e291] [cursor=pointer]
+            - listitem:
+              - button "52" [ref=e292] [cursor=pointer]
+            - listitem:
+              - button "53" [ref=e293] [cursor=pointer]
+            - listitem:
+              - button "54" [ref=e294] [cursor=pointer]
+            - listitem:
+              - button "55" [ref=e295] [cursor=pointer]
+            - listitem:
+              - button "56" [ref=e296] [cursor=pointer]
+            - listitem:
+              - button "57" [ref=e297] [cursor=pointer]
+            - listitem:
+              - button "58" [ref=e298] [cursor=pointer]
+            - listitem:
+              - button "59" [ref=e299] [cursor=pointer]
+            - listitem:
+              - button "60" [ref=e300] [cursor=pointer]
+            - listitem:
+              - button "61" [ref=e301] [cursor=pointer]
+            - listitem:
+              - button "62" [ref=e302] [cursor=pointer]
+            - listitem:
+              - button "63" [ref=e303] [cursor=pointer]
+            - listitem:
+              - button "64" [ref=e304] [cursor=pointer]
+            - listitem:
+              - button "65" [ref=e305] [cursor=pointer]
+            - listitem:
+              - button "66" [ref=e306] [cursor=pointer]
+            - listitem:
+              - button "67" [ref=e307] [cursor=pointer]
+            - listitem:
+              - button "68" [ref=e308] [cursor=pointer]
+            - listitem:
+              - button "69" [ref=e309] [cursor=pointer]
+    - generic [ref=e311]:
+      - paragraph [ref=e312]: Popular Tags
+      - generic [ref=e313]:
+        - generic [ref=e314] [cursor=pointer]: Test
+        - generic [ref=e315] [cursor=pointer]: playwright
+        - generic [ref=e316] [cursor=pointer]: automation
+        - generic [ref=e317] [cursor=pointer]: test, automation
+        - generic [ref=e318] [cursor=pointer]: tag2
+        - generic [ref=e319] [cursor=pointer]: Git
+        - generic [ref=e320] [cursor=pointer]: Blog
+        - generic [ref=e321] [cursor=pointer]: e2e-test
+        - generic [ref=e322] [cursor=pointer]: YouTube
+        - generic [ref=e323] [cursor=pointer]: Coding
+  - contentinfo [ref=e13]:
+    - generic [ref=e14]:
+      - link "conduit" [ref=e15] [cursor=pointer]:
+        - /url: /
+      - generic [ref=e16]:
+        - text: © 2026. An interactive learning project from
+        - link "RealWorld OSS Project" [ref=e17] [cursor=pointer]:
+          - /url: https://github.com/gothinkster/realworld
+        - text: . Code licensed under MIT. Hosted by
+        - link "Bondar Academy" [ref=e18] [cursor=pointer]:
+          - /url: https://bondaracademy.com
+        - text: .
